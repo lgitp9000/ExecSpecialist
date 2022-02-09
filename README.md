@@ -1,1 +1,2 @@
 # ExecSpecialist
+a project i'm building for work. instead of leaving a physical handbook for my current role, i decided to make a "learn as i go" website in place of the handbook. two goals: 1.) learn how to use html, css, and js to build a website from scratch. 2.) use this website to have conversations with the tech department at my current company to move into a developer role, showcasing skills, processes and fluencies acquired in this process. 
